@@ -9,3 +9,7 @@ sudo apt-get install node
 
 Revisa mas acerca de pidriver en:
 https://www.npmjs.com/package/pidriver
+
+# Ejecutando los ejemplos
+cd prueba_leds
+sudo node prueba_leds.js
