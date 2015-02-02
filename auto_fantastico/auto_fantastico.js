@@ -72,4 +72,4 @@ setInterval(function() {
 
 	led_array[current_led].up(); //Enciende el el correspondiente
 
-},1000);
+},100);
